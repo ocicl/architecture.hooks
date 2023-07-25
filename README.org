@@ -1,0 +1,10 @@
+* architecture.hooks
+
+Hooks extension point mechanism (as known, e.g., from GNU Emacs)
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/scymtym/architecture.hooks.git   |
+| commit  | 5b63808  |
+| systems | architecture.hooks |
+|---------+-------------------------------------------|
+
